@@ -1,6 +1,6 @@
 ﻿  Первичка.cpp
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(18): warning C4474: "printf" : для строки формата передано слишком много аргументов
-  c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(18): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(21): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(21): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
   Первичка.vcxproj -> C:\Users\microsoft\source\repos\Первичка\Debug\Первичка.exe
