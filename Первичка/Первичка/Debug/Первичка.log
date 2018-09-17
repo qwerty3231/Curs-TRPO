@@ -1,5 +1,6 @@
-﻿  Первичка.cpp
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(60): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-c:\users\microsoft\source\repos\первичка\первичка\первичка.cpp(178): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  Первичка.vcxproj -> C:\Users\microsoft\source\repos\Первичка\Debug\Первичка.exe
+﻿  stdafx.cpp
+  Первичка.cpp
+c:\users\microsoft\desktop\curs-trpo.git\первичка\первичка\первичка.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\microsoft\desktop\curs-trpo.git\первичка\первичка\первичка.cpp(60): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\microsoft\desktop\curs-trpo.git\первичка\первичка\первичка.cpp(178): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Первичка.vcxproj -> C:\Users\microsoft\Desktop\curs-TRPO.git\Первичка\Debug\Первичка.exe
