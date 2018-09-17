@@ -1,0 +1,7 @@
+﻿  classic_training.cpp
+c:\users\microsoft\source\repos\newpervichka\classic_training.cpp(121): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  random_training.cpp
+c:\users\microsoft\source\repos\newpervichka\random_training.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\microsoft\source\repos\newpervichka\random_training.cpp(60): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  new.vcxproj -> C:\Users\microsoft\source\repos\NewPervichka\Debug\new.exe
